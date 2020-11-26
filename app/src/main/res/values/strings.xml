@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebBrowserApp</string>
+    <string name="uri_label">URI: %1$s</string>
+
+</resources>
